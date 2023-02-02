@@ -4,16 +4,16 @@ PYTHON CODE TO DETECT LUNG CANCER USING LINEAR DISCRIMANT ANALYSIS(LDA)
 
 WORK FLOW OF THIS:
 
-Collecting the Dataset
+->Collecting the Dataset
 
-Pre-processing the Dataset
+->Pre-processing the Dataset
 
-Loading the LINEAR DISCRIMINANT ANALYSIS Algorithm
+->Loading the LINEAR DISCRIMINANT ANALYSIS Algorithm
 
-Training the Model using the training dataset
+->Training the Model using the training dataset
 
-Testing the Model using the testing dataset
+->Testing the Model using the testing dataset
 
-Performing Classification
+->Performing Classification
 
-Calculating the Accuracy
+->Calculating the Accuracy
